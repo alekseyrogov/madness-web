@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222598656621",
+    "project_id": "merge-madness",
+    "storage_bucket": "merge-madness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222598656621:android:4b2e97db7b2fe8c0210564",
+        "android_client_info": {
+          "package_name": "com.BroDevStudio.MergeRPG"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222598656621-rqnhq0u9dlq3mffch3s9lcnh402ujv6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIjEnpk9iETPP0BLdBkVkejfBvFZjT6co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222598656621-rqnhq0u9dlq3mffch3s9lcnh402ujv6g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222598656621-vvgculatnulo9uqd9117gvet0bkmi8f5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BroDevStudio.MergeRPG",
+                "app_store_id": "1576195564"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
